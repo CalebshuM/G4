@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "record_count": 27,
+  "source_file": "hkust_canvas_student_guide.pdf",
+  "source_sha256": "3748369b5a134a5509f1e9052dbc3d1aa9b530646b6242afce6ebde64a9dfd11",
+  "embedding_field": "text",
+  "primary_key": "id",
+  "metadata_field": "metadata",
+  "embeddings_included": false,
+  "note": "Question-answer chunks; PDF pages are 1-based including the contents page."
+}
